@@ -83,7 +83,7 @@ section {
     max-width: 34rem;
 }
 img {
-    /*ces 2 valeurs sont TOUJOURS à rajouter sur une image*/
+    /*ces 2 valeurs sont TOUJOURS à ajouter sur une image, meilleur comportement aux bords de la page*/
     max-width: 100%;
     display: block;
 }
